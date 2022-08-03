@@ -6,7 +6,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Built with Angular and TailwindCSS
 
 ## Demo
-link to your live demo
+https://mortgage-calculator-inky.vercel.app/
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
