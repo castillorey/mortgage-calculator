@@ -1,0 +1,11 @@
+<div class="px-2 py-2 inline-block w-60">
+  <div class="flex justify-between">
+    <label class="form-label">{{name}} :</label>
+    <span>
+      {{type === 'money' ? (range.value | currency) : (range.value)}} {{type === 'rate' ? '%' : ''}}
+      <ng-content></ng-content>
+    </span>
+  </div>
+  <input type="range" class="form-range range-input" #range (input)="range.value"
+    [step]="step" [min]="min" [max]="max" (change)="rangeChange(range.value)"/>
+</div>
