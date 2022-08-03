@@ -1,13 +1,12 @@
 # DevProjects - Mortgage calculator web app
 Simple Mortgage EMI calculator
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [Mortgage calculator web app](https://www.codementor.io/projects/web/mortgage-calculator-web-app-d16bqrq2q3)
 
 ## Tech/framework used
 Built with Angular and TailwindCSS
 
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+## Demo
+link to your live demo
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
